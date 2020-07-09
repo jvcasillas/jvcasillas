@@ -1,0 +1,18 @@
+---
+title: "Untitled"
+output: md_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### Hello 👋
+
+- 🔭 I’m currently working on projects related to coronal stop production in bilinguals.
+- 👯 I’m looking to collaborate on all kinds of stuff. Get in touch with me!
+- 📫 How to reach me: joseph.casillas@rutgers.edu
+
+```{r, 'test'}
+2 + 2
+```
