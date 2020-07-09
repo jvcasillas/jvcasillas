@@ -7,10 +7,24 @@ output: md_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-### Hello 👋
+# Hola 👋🏽
 
-- 🧑🏽‍🔬 I’m a linguist at Rutgers University
+- 🧑🏽‍🔬 I’m a linguist in the Spanish and Portuguese Department at Rutgers 
+University
 - 🔬 I do research on Second Language Acquisition and Bilingualism
 - 💻 I'm a fan of open science, Rstats, and dataviz
 - 👯 I’m looking to collaborate on all kinds of stuff. Get in touch with me!
 - 📫 How to reach me: joseph.casillas@rutgers.edu
+
+<img src="" alt="my image">
+
+
+```{r, 'image', echo=F, message=F, warning=F, include=F}
+library("tidyverse")
+
+mtcars %>% 
+  ggplot(., aes(x = drat, y = mpg)) + 
+    geom_point() + 
+    geom_smooth(method = lm) + 
+    theme_void()
+```
