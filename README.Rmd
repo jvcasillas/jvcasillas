@@ -16,7 +16,7 @@ University
 - 👯 I’m looking to collaborate on all kinds of stuff. Get in touch with me!
 - 📫 How to reach me: joseph.casillas@rutgers.edu
 
-<img src="" alt="my image">
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-markdown_strict/image-1.png" alt="my image">
 
 
 ```{r, 'image', echo=F, message=F, warning=F, include=F}

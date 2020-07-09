@@ -10,4 +10,4 @@ Hola 👋🏽
 -   📫 How to reach me:
     <a href="mailto:joseph.casillas@rutgers.edu" class="email">joseph.casillas@rutgers.edu</a>
 
-<img src="" alt="my image">
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-markdown_strict/image-1.png" alt="my image">
