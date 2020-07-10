@@ -7,7 +7,7 @@ output: md_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<div style="float:right">
+<div style="float:right;">
 <img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-markdown_strict/image-1.png" alt="my image">
 </div>
 
@@ -21,7 +21,7 @@ University
 - 📫 How to reach me: joseph.casillas@rutgers.edu
 
 
-```{r, 'image', echo=F, message=F, warning=F, include=F}
+```{r, 'image', echo=F, message=F, warning=F, include=F, fig.height=2, fig.width=4}
 library("tidyverse")
 
 theta <- seq(0,1,length=500)
