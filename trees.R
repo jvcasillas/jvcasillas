@@ -63,7 +63,7 @@ theme_mono <- function(color = "black") {
 }
 
 palette <- "viridis"
-bground <- "grey99"
+bground <- "white"
 
 # -----------------------------------------------------------------------------
 
@@ -127,7 +127,7 @@ file_name <- paste0("three_trees_", bground, "_", palette, ".png")
 ggsave(
   filename = file_name,
   plot = all_trees,
-  path = here("img"),
+  #path = here("img"),
   width = pixels_wide / 300, height = pixels_high / 300,
   units = "in",
   dpi = 300

@@ -1,7 +1,9 @@
 
 # Hola 👋🏽
 
-<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/three_trees_grey99_viridis.png" alt="Generative aRt using the flametree package by Danielle Navarro" align="center;" width="550px" height="175px">
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/three_trees_white_viridis.png" alt="Generative aRt using the flametree package by Danielle Navarro" align="center;" width="550px" height="175px">
+
+</br>
 
   - 🧑🏽‍🔬 I’m a linguist in the Spanish and Portuguese Department at
     Rutgers University
@@ -10,5 +12,7 @@
   - 👯 I’m looking to collaborate on all kinds of stuff. Get in touch
     with me\!
   - 📫 How to reach me: <joseph.casillas@rutgers.edu>
+
+</br>
 
 <img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-gfm/image-1.png" alt="a gamma distribution" align="center;" width="300px">
