@@ -1,7 +1,7 @@
-<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-markdown_strict/image-1.png" alt="a gamma distribution" style="float:right;">
-
 Hola 👋🏽
 =======
+
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-markdown_strict/image-1.png" alt="a gamma distribution" style="float:right;">
 
 -   🧑🏽‍🔬 I’m a linguist in the Spanish and Portuguese Department at
     Rutgers University
