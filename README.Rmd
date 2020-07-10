@@ -7,9 +7,7 @@ output: md_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-<div style="float:right;">
-<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-markdown_strict/image-1.png" alt="my image">
-</div>
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-markdown_strict/image-1.png" alt="a gamma distribution" style="float:right;">
 
 # Hola 👋🏽
 

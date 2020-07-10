@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-markdown_strict/image-1.png" alt="my image">
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-markdown_strict/image-1.png" alt="a gamma distribution" style="float:right;">
 
 Hola 👋🏽
 =======
