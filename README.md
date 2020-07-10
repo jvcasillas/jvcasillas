@@ -1,7 +1,7 @@
 
 # Hola 👋🏽
 
-<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/three_trees_grey99_viridis.png" alt="Generative aRt using the flametree package by Danielle Navarro" align="center;" width="600px" height="150px">
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/three_trees_grey99_viridis.png" alt="Generative aRt using the flametree package by Danielle Navarro" align="center;" width="550px" height="175px">
 
   - 🧑🏽‍🔬 I’m a linguist in the Spanish and Portuguese Department at
     Rutgers University
