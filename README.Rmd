@@ -22,9 +22,34 @@ University
 ```{r, 'image', echo=F, message=F, warning=F, include=F}
 library("tidyverse")
 
-mtcars %>% 
-  ggplot(., aes(x = drat, y = mpg)) + 
-    geom_point() + 
-    geom_smooth(method = lm) + 
-    theme_void()
+theta <- seq(0,1,length=500)
+
+df <- tibble(
+  row = 1:500, 
+  a = dgamma(x = theta, shape = 1.85, rate = 6.00), 
+  b = dgamma(x = theta, shape = 1.85, rate = 6.25), 
+  c = dgamma(x = theta, shape = 1.85, rate = 6.50), 
+  d = dgamma(x = theta, shape = 1.85, rate = 6.75), 
+  e = dgamma(x = theta, shape = 1.85, rate = 7.00),
+  f = dgamma(x = theta, shape = 1.85, rate = 7.25),
+  g = dgamma(x = theta, shape = 1.85, rate = 7.50),
+  h = dgamma(x = theta, shape = 1.85, rate = 7.75),
+  i = dgamma(x = theta, shape = 1.85, rate = 8.00),
+  j = dgamma(x = theta, shape = 1.85, rate = 8.25), 
+  k = dgamma(x = theta, shape = 1.85, rate = 8.50), 
+  l = dgamma(x = theta, shape = 1.85, rate = 8.75), 
+  m = dgamma(x = theta, shape = 1.85, rate = 9.00), 
+  n = dgamma(x = theta, shape = 1.85, rate = 9.25)
+  ) %>% 
+  pivot_longer(cols = -row) %>% 
+  filter(value != Inf)
+
+ggplot(data = df, aes(x = row, y = value, color = name)) +
+  geom_line(show.legend = F) + 
+  scale_color_viridis_d(option = "C") + 
+  theme_void()
+
+
+
+
 ```
