@@ -7,6 +7,10 @@ output: md_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<div style="float:right">
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-markdown_strict/image-1.png" alt="my image">
+</div>
+
 # Hola 👋🏽
 
 - 🧑🏽‍🔬 I’m a linguist in the Spanish and Portuguese Department at Rutgers 
@@ -15,8 +19,6 @@ University
 - 💻 I'm a fan of open science, Rstats, and dataviz
 - 👯 I’m looking to collaborate on all kinds of stuff. Get in touch with me!
 - 📫 How to reach me: joseph.casillas@rutgers.edu
-
-<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-markdown_strict/image-1.png" alt="my image">
 
 
 ```{r, 'image', echo=F, message=F, warning=F, include=F}
@@ -48,8 +50,5 @@ ggplot(data = df, aes(x = row, y = value, color = name)) +
   geom_line(show.legend = F) + 
   scale_color_viridis_d(option = "C") + 
   theme_void()
-
-
-
 
 ```
