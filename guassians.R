@@ -21,13 +21,13 @@ dist_1 <- ggplot(data = tibble(x = c(-8, 8)), aes(x = x)) +
   theme_mono(color = bground) +
   coord_cartesian(xlim = c(-8, 7), ylim = c(-0.1, 0.45), expand = F) +
   mapply(dist_function, mean = 0, sd = values,
-         col = choose_colors(option = "C", end = 0.95))
+         col = choose_colors(option = "C"))
 
 dist_2 <- ggplot(data = tibble(x = c(-8, 8)), aes(x = x)) +
   theme_mono(color = bground) +
   coord_cartesian(xlim = c(-7, 8), ylim = c(-0.1, 0.45), expand = F) +
   mapply(dist_function, mean = 0, sd = values,
-         col = choose_colors(option = "D", end = 0.95))
+         col = choose_colors(option = "D"))
 
 all_dists <- dist_1 + dist_2
 

@@ -13,4 +13,4 @@
 
 </br>
 
-<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/README_files/figure-gfm/image-1.png" alt="a gamma distribution" align="center;" width="300px">
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/two_guassians_black.png" alt="Some gaussians" align="center;" width="550px" height="175px">
