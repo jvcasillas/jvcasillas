@@ -8,7 +8,7 @@ choose_colors <- function(n = 30, ...) {
   cols <- viridis_pal(...)(n)
   return(cols)
 }
-bground <- "black"
+bground <- "white"
 
 
 dist_function <- function(col, mean, sd) {

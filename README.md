@@ -13,4 +13,4 @@
 
 </br>
 
-<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/two_guassians_black.png" alt="Some gaussians" align="center;" width="550px" height="175px">
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/two_guassians_white.png" alt="Some gaussians" align="center;" width="550px" height="175px">
