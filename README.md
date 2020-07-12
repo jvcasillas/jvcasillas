@@ -1,3 +1,7 @@
+<p style="float:right">
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/three_trees_white_viridis.png" alt="Generative aRt using the flametree package by Danielle Navarro" align="center" width="550px" height="175px">
+</p>
+
 Hola 👋🏽
 =======
 
@@ -23,7 +27,3 @@ Hola 👋🏽
     <a href="mailto:joseph.casillas@rutgers.edu" class="email">joseph.casillas@rutgers.edu</a>
 
 </br>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/three_trees_white_viridis.png" alt="Generative aRt using the flametree package by Danielle Navarro" align="center" width="550px" height="175px">
-</p>
