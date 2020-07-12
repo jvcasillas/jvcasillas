@@ -3,6 +3,8 @@ Hola 👋🏽
 
 <a href="https://github.com/jvcasillas">
 <img src="https://img.shields.io/github/followers/jvcasillas.svg?label=GitHub&style=social" alt="GitHub">
+</a> <a href="https://twitter.com/jvcasill">
+<img src="https://img.shields.io/twitter/follow/jvcasill?label=Twitter&style=social" alt="Twitter">
 </a>
 
 <p align="center">
@@ -20,4 +22,6 @@ Hola 👋🏽
 
 </br>
 
+<p align="center">
 <img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/two_guassians_white.png" alt="Some gaussians" align="center" width="550px" height="175px">
+</p>
