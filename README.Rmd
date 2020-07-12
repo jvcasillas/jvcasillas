@@ -10,11 +10,8 @@ source("./badges.R")
 
 # Hola 👋🏽
 
-```{r, 'github-badge', results='asis', echo=F}
+```{r, 'badges', results='asis', echo=F}
 spit_html(user = "jvcasillas", platform = "github", alt = "github")
-```
-
-```{r, 'twitter-badge', results='asis', echo=F}
 spit_html(user = "jvcasill", platform = "twitter", alt = "twitter")
 ```
 
