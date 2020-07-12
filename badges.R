@@ -21,16 +21,18 @@ build_img_links <- function(user = "jvcasillas", platform = "github") {
 
 build_img <- function(user = "jvcasillas", platform = "github", alt = "") {
   link <- build_img_links(user, platform)
-  out  <-  paste0('<img src="', link, '" alt= "', alt, '">')
+  out  <-  paste0('<img src="', link, '" alt="', alt, '">')
 }
 
 spit_html <- function(user, platform, alt = "") {
   a_link <- build_a_links(user, platform)
-  img    <- build_img(user, platform, alt = "")
+  img    <- build_img(user, platform, alt = alt)
 
   a_open  <- paste0('<a href="', a_link, '">')
   a_close <- paste0("</a>")
-  out <- paste0(a_open, img, a_close)
-  cat(out)
+
+  cat(
+    paste0("\n", a_open, "\n", "  ", img, "\n", a_close, "\n")
+  )
 }
 

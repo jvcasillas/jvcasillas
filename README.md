@@ -1,7 +1,13 @@
 Hola 👋🏽
 =======
 
-<a href="https://github.com/jvcasillas"><img src="https://img.shields.io/github/followers/jvcasillas.svg?label=Github&style=social" alt= ""></a><a href="https://twitter.com/jvcasill"><img src="https://img.shields.io/twitter/follow/jvcasill?label=Twitter&style=social" alt= ""></a>
+<a href="https://github.com/jvcasillas">
+<img src="https://img.shields.io/github/followers/jvcasillas.svg?label=Github&style=social" alt="github">
+</a>
+
+<a href="https://twitter.com/jvcasill">
+<img src="https://img.shields.io/twitter/follow/jvcasill?label=Twitter&style=social" alt="twitter">
+</a>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/three_trees_white_viridis.png" alt="Generative aRt using the flametree package by Danielle Navarro" align="center" width="550px" height="175px">
