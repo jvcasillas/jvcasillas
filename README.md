@@ -1,7 +1,13 @@
 Hola 👋🏽
 =======
 
-<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/three_trees_white_viridis.png" alt="Generative aRt using the flametree package by Danielle Navarro" align="center;" width="550px" height="175px">
+<p align="center">
+<a href="https://github.com/jvcasillas">
+<img src="https://img.shields.io/github/followers/jvcasillas.svg?label=GitHub&style=social" alt="GitHub">
+</a>
+</p>
+
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/three_trees_white_viridis.png" alt="Generative aRt using the flametree package by Danielle Navarro" align="center" width="550px" height="175px">
 
 -   🧑🏽‍🔬 I’m a linguist in the Spanish and Portuguese Department at
     Rutgers University
@@ -14,4 +20,4 @@ Hola 👋🏽
 
 </br>
 
-<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/two_guassians_white.png" alt="Some gaussians" align="center;" width="550px" height="175px">
+<img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/two_guassians_white.png" alt="Some gaussians" align="center" width="550px" height="175px">
