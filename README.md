@@ -26,10 +26,13 @@ Hola 👋🏽
 
 </br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=jvcasillas&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvcasillas&hide=TeX&layout=compact)
+<p align="center">
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jvcasillas&count_private=true&show_icons=true&include_all_commits=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvcasillas&hide=TeX&layout=compact)  
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jvcasillas.visitor-badge)
 
-<p align="center">
 <img src="https://raw.githubusercontent.com/jvcasillas/jvcasillas/master/two_guassians_white.png" alt="Some gaussians" align="center" width="550px" height="175px">
 </p>
